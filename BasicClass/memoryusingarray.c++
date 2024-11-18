@@ -24,7 +24,7 @@ void shop ::setprice(){
 
 void shop ::displayprice(){
     for(int i=0;i<cnt;i++){
-        cout<<"Girls Name with Price -> "<<itemid[i]<<" : "<<price[i]<<"\n";
+        cout<<"Name with Price -> "<<itemid[i]<<" : "<<price[i]<<"\n";
     }
     cout<<"\n Contact  Mukesh dhadhariya to Order now at Romm \n Pay after diliver\n contct : 9783609918";
 }
